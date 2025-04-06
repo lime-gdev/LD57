@@ -20,7 +20,11 @@ MonoBehaviour:
     height: 997
   m_ShowMode: 4
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Title: Hierarchy
+=======
+  m_Title: Console
+>>>>>>> Stashed changes
 =======
   m_Title: Console
 >>>>>>> Stashed changes
@@ -125,7 +129,11 @@ MonoBehaviour:
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 81
+=======
+  controlID: 77
+>>>>>>> Stashed changes
 =======
   controlID: 77
 >>>>>>> Stashed changes
@@ -1431,7 +1439,11 @@ MonoBehaviour:
       m_SelectedIDs: 1ca80000
       m_LastClickedID: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       m_ExpandedIDs: 8aa8ffff04b0ffff96b0ffff76b7ffff
+=======
+      m_ExpandedIDs: befaffff
+>>>>>>> Stashed changes
 =======
       m_ExpandedIDs: befaffff
 >>>>>>> Stashed changes
@@ -1631,7 +1643,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - Assets/LD57/Prefabs/MainScreen/Enemies
+=======
+    - Assets/LD57/Art/2D/Player
+>>>>>>> Stashed changes
 =======
     - Assets/LD57/Art/2D/Player
 >>>>>>> Stashed changes
@@ -1653,7 +1669,11 @@ MonoBehaviour:
     m_SelectedIDs: aca40000
     m_LastClickedID: 42156
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_ExpandedIDs: 000000002a70000054b20000bcb20000beb20000c0b20000c2b20000c4b20000c6b20000c8b20000cab20000ccb20000ceb20000d0b20000d2b20000d4b20000d6b20000d8b20000dab20000dcb20000deb20000e0b20000
+=======
+    m_ExpandedIDs: 0000000046a5000082a5000084a50000d6a50000d8a50000daa50000dca50000dea50000e0a50000e2a50000e4a50000e6a50000e8a50000eaa50000eca50000eea50000f0a50000f2a50000f4a50000f6a50000f8a50000
+>>>>>>> Stashed changes
 =======
     m_ExpandedIDs: 0000000046a5000082a5000084a50000d6a50000d8a50000daa50000dca50000dea50000e0a50000e2a50000e4a50000e6a50000e8a50000eaa50000eca50000eea50000f0a50000f2a50000f4a50000f6a50000f8a50000
 >>>>>>> Stashed changes
@@ -1686,7 +1706,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_ExpandedIDs: ffffffff000000002a70000054b20000bcb20000beb20000c0b20000c2b20000c4b20000c6b20000c8b20000cab20000ccb20000ceb20000d0b20000d2b20000d4b20000d6b20000d8b20000dab20000dcb20000deb20000e0b20000a6b40000a8b40000dcb50000e0b50000
+=======
+    m_ExpandedIDs: ffffffff0000000046a5000082a5000084a50000d6a50000d8a50000daa50000dca50000dea50000e0a50000e2a50000e4a50000e6a50000e8a50000eaa50000eca50000eea50000f0a50000f2a50000f4a50000f6a50000f8a50000
+>>>>>>> Stashed changes
 =======
     m_ExpandedIDs: ffffffff0000000046a5000082a5000084a50000d6a50000d8a50000daa50000dca50000dea50000e0a50000e2a50000e4a50000e6a50000e8a50000eaa50000eca50000eea50000f0a50000f2a50000f4a50000f6a50000f8a50000
 >>>>>>> Stashed changes
@@ -1816,8 +1840,13 @@ MonoBehaviour:
   m_Zoom: 3.1675494
   m_ScrollPosition: {x: -43.134903, y: -62.298035}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_SelectedObject: {fileID: 0}
   m_SelectedSpriteRectGUID: 00000000000000000000000000000000
+=======
+  m_SelectedObject: {fileID: 2800000, guid: dd0b400a696a5f544af88c7344cabf0e, type: 3}
+  m_SelectedSpriteRectGUID: 196ff413dd96ffe4eaad5afe3ca786ab
+>>>>>>> Stashed changes
 =======
   m_SelectedObject: {fileID: 2800000, guid: dd0b400a696a5f544af88c7344cabf0e, type: 3}
   m_SelectedSpriteRectGUID: 196ff413dd96ffe4eaad5afe3ca786ab
