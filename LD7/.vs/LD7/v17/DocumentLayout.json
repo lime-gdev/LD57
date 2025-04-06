@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\assets\\ld57\\scripts\\model\\clipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\clipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|c:\\users\\c4ess\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u044E\u043D\u044C\u043A\u0430\\ld\\ld57\\ld7\\assets\\ld57\\scripts\\model\\crockodilobombordinoshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\crockodilobombordinoshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\assets\\ld57\\scripts\\model\\levelscenariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\levelscenariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\assets\\ld57\\scripts\\model\\clipbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\clipbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|c:\\users\\c4ess\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u044E\u043D\u044C\u043A\u0430\\ld\\ld57\\ld7\\assets\\ld57\\scripts\\model\\clipscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\clipscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|c:\\users\\c4ess\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u044E\u043D\u044C\u043A\u0430\\ld\\ld57\\ld7\\assets\\ld57\\scripts\\model\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|c:\\users\\c4ess\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u044E\u043D\u044C\u043A\u0430\\ld\\ld57\\ld7\\assets\\ld57\\scripts\\model\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\assets\\ld57\\scripts\\model\\clipchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\clipchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\assets\\ld57\\scripts\\model\\levelbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\levelbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\assets\\ld57\\scripts\\model\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B311A1-6F70-0A15-40AB-60E9FE4CA078}|Assembly-CSharp.csproj|solutionrelative:assets\\ld57\\scripts\\model\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClipScenario.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipScenario.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\ClipScenario.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipScenario.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\ClipScenario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:03:38.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\PlayerMovement.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:56:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrockodiloBombordinoShooting.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\CrockodiloBombordinoShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\CrockodiloBombordinoShooting.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\CrockodiloBombordinoShooting.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\CrockodiloBombordinoShooting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:38:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClipsManager.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\ClipsManager.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipsManager.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\ClipsManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:14:34.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelBootStrap.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\LevelBootStrap.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\LevelBootStrap.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\LevelBootStrap.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\LevelBootStrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:04:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelScenarioGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\LevelScenarioGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\LevelScenarioGenerator.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\LevelScenarioGenerator.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\LevelScenarioGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:04:24.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClipChanger.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\ClipChanger.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipChanger.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\ClipChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:50:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClipBootStrap.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipBootStrap.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\ClipBootStrap.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\ClipBootStrap.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\ClipBootStrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:45:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\Enemy.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\Enemy.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:37:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\LD57\\Scripts\\Model\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\c4ess\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u042E\u043D\u044C\u043A\u0430\\LD\\LD57\\LD7\\Assets\\LD57\\Scripts\\Model\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\LD57\\Scripts\\Model\\EnemySpawner.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwFUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:06:49.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
