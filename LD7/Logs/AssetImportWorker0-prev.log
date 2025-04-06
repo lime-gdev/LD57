@@ -15,11 +15,15 @@ C:/Users/c4ess/OneDrive/Документы/Юнька/LD/LD57/LD7
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 61326
 =======
 54857
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+61326
+>>>>>>> Stashed changes
 -job-worker-count
 7
 -background-job-worker-count
@@ -63,7 +67,10 @@ C:/Users/c4ess/OneDrive/Документы/Юнька/LD/LD57/LD7
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 Player connection [23464]  Target information:
 
 Player connection [23464]  * "[IP] 192.168.1.86 [Port] 0 [Flags] 2 [Guid] 1339655158 [EditorId] 1339655158 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK16SP8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -96,11 +103,15 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
 =======
 Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.44f1 (101c91f3a8fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Resources/UnitySubsystems
@@ -124,6 +135,7 @@ Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngin
 Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.001829 seconds.
 - Loaded All Assemblies, in  0.260 seconds
+<<<<<<< Updated upstream
 =======
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
@@ -135,8 +147,11 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.44f1/
 Registered in 0.002672 seconds.
 - Loaded All Assemblies, in  0.345 seconds
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.233 seconds
 Domain Reload Profiling: 493ms
@@ -146,12 +161,20 @@ Domain Reload Profiling: 493ms
 Domain Reload Profiling: 636ms
 	BeginReloadAssembly (114ms)
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+- Finished resetting the current domain, in  0.233 seconds
+Domain Reload Profiling: 493ms
+	BeginReloadAssembly (86ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 	RebuildCommonClasses (26ms)
 	RebuildNativeTypeToScriptingClass (9ms)
 	initialDomainReloadingComplete (31ms)
@@ -173,6 +196,7 @@ Domain Reload Profiling: 636ms
 			BeforeProcessingInitializeOnLoad (36ms)
 			ProcessInitializeOnLoadAttributes (107ms)
 			ProcessInitializeOnLoadMethodAttributes (36ms)
+<<<<<<< Updated upstream
 =======
 	RebuildCommonClasses (34ms)
 	RebuildNativeTypeToScriptingClass (12ms)
@@ -196,6 +220,8 @@ Domain Reload Profiling: 636ms
 			ProcessInitializeOnLoadAttributes (128ms)
 			ProcessInitializeOnLoadMethodAttributes (48ms)
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+>>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -204,6 +230,7 @@ Domain Reload Profiling: 636ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - Loaded All Assemblies, in  0.471 seconds
 Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
@@ -211,9 +238,16 @@ Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
 - Loaded All Assemblies, in  0.654 seconds
 Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+- Loaded All Assemblies, in  0.471 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 - Finished resetting the current domain, in  0.551 seconds
 Domain Reload Profiling: 1022ms
 	BeginReloadAssembly (124ms)
@@ -286,6 +320,7 @@ Received Import Request.
   artifactKey: Guid(d86855cc3f2d7e04b8f452ee6834307f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/LD57/Art/2D/Enemies/FROG/FROG.psd using Guid(d86855cc3f2d7e04b8f452ee6834307f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '768b3696520b7695b64a4779c9513c4f') in 0.0300756 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+<<<<<<< Updated upstream
 =======
 - Finished resetting the current domain, in  0.741 seconds
 Domain Reload Profiling: 1391ms
@@ -607,6 +642,8 @@ Received Import Request.
   artifactKey: Guid(260406f642ce4f247905780b6d3e35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/LD57/Prefabs/MainScreen/Enemies/FrogoWheeli.prefab using Guid(260406f642ce4f247905780b6d3e35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac3c34e3c673a0caa4cbaf2208d29c0f') in 0.0120221 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+=======
+>>>>>>> Stashed changes
 
 ========================================================================
 Received Import Request.

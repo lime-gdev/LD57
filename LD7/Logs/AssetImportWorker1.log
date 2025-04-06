@@ -15,7 +15,11 @@ D:/GAMES/LD57/LD57/LD7
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
+<<<<<<< Updated upstream
 49302
+=======
+64723
+>>>>>>> Stashed changes
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,12 +63,21 @@ D:/GAMES/LD57/LD57/LD7
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream
 Player connection [12112]  Target information:
 
 Player connection [12112]  * "[IP] 192.168.1.86 [Port] 0 [Flags] 2 [Guid] 1348359386 [EditorId] 1348359386 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK16SP8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
 Player connection [12112] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [12112] Host joined alternative multi-casting on [225.0.0.222:34997]...
+=======
+Player connection [5024]  Target information:
+
+Player connection [5024]  * "[IP] 192.168.1.86 [Port] 0 [Flags] 2 [Guid] 2078333276 [EditorId] 2078333276 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK16SP8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5024] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [5024] Host joined alternative multi-casting on [225.0.0.222:34997]...
+>>>>>>> Stashed changes
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -76,7 +89,11 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.44f1 (101c91f3a8fb)
 [Subsystems] Discovering subsystems at path D:/Unity/6000.0.44f1/Editor/Data/Resources/UnitySubsystems
@@ -92,29 +109,52 @@ Initialize mono
 Mono path[0] = 'D:/Unity/6000.0.44f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/6000.0.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Unity/6000.0.44f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 Registered in 0.002011 seconds.
 - Loaded All Assemblies, in  0.255 seconds
+=======
+Registered in 0.001759 seconds.
+- Loaded All Assemblies, in  0.250 seconds
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.232 seconds
+<<<<<<< Updated upstream
 Domain Reload Profiling: 487ms
 	BeginReloadAssembly (83ms)
+=======
+Domain Reload Profiling: 482ms
+	BeginReloadAssembly (82ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 		CreateAndSetChildDomain (1ms)
 	RebuildCommonClasses (23ms)
 	RebuildNativeTypeToScriptingClass (9ms)
 	initialDomainReloadingComplete (33ms)
 	LoadAllAssembliesAndSetupDomain (106ms)
 		LoadAssemblies (82ms)
+=======
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (106ms)
+		LoadAssemblies (81ms)
+>>>>>>> Stashed changes
 		RebuildTransferFunctionScriptingTraits (0ms)
 		AnalyzeDomain (104ms)
 			TypeCache.Refresh (103ms)
@@ -128,9 +168,15 @@ Domain Reload Profiling: 487ms
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (17ms)
 			SetLoadedEditorAssemblies (3ms)
+<<<<<<< Updated upstream
 			BeforeProcessingInitializeOnLoad (38ms)
 			ProcessInitializeOnLoadAttributes (107ms)
 			ProcessInitializeOnLoadMethodAttributes (37ms)
+=======
+			BeforeProcessingInitializeOnLoad (37ms)
+			ProcessInitializeOnLoadAttributes (108ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+>>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -139,6 +185,7 @@ Domain Reload Profiling: 487ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 - Loaded All Assemblies, in  0.500 seconds
 Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
@@ -173,17 +220,62 @@ Domain Reload Profiling: 1102ms
 			BeforeProcessingInitializeOnLoad (75ms)
 			ProcessInitializeOnLoadAttributes (351ms)
 			ProcessInitializeOnLoadMethodAttributes (61ms)
+=======
+- Loaded All Assemblies, in  0.452 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.566 seconds
+Domain Reload Profiling: 1018ms
+	BeginReloadAssembly (118ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (280ms)
+		LoadAssemblies (197ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (148ms)
+			TypeCache.Refresh (109ms)
+				TypeCache.ScanAssembly (99ms)
+			BuildScriptInfoCaches (31ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (567ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (460ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (325ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+>>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (4ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 213 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 5992 unused Assets / (4.5 MB). Loaded Objects now: 6694.
 Memory consumption went from 162.2 MB to 157.7 MB.
 Total: 6.692900 ms (FindLiveObjects: 0.596700 ms CreateObjectMapping: 0.216700 ms MarkObjects: 3.732100 ms  DeleteObjects: 2.146700 ms)
+=======
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 212 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5974 unused Assets / (4.5 MB). Loaded Objects now: 6675.
+Memory consumption went from 161.3 MB to 156.8 MB.
+Total: 7.939100 ms (FindLiveObjects: 0.570400 ms CreateObjectMapping: 0.215100 ms MarkObjects: 4.854500 ms  DeleteObjects: 2.298300 ms)
+>>>>>>> Stashed changes
 
 ========================================================================
 Received Prepare

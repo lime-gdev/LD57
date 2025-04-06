@@ -15,11 +15,15 @@ C:/Users/c4ess/OneDrive/Документы/Юнька/LD/LD57/LD7
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 61326
 =======
 54857
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+61326
+>>>>>>> Stashed changes
 -job-worker-count
 7
 -background-job-worker-count
@@ -63,7 +67,10 @@ C:/Users/c4ess/OneDrive/Документы/Юнька/LD/LD57/LD7
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 Player connection [20588]  Target information:
 
 Player connection [20588]  * "[IP] 192.168.1.86 [Port] 0 [Flags] 2 [Guid] 78544732 [EditorId] 78544732 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK16SP8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -96,11 +103,15 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
 =======
 Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.44f1 (101c91f3a8fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Resources/UnitySubsystems
@@ -124,6 +135,7 @@ Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngin
 Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.002388 seconds.
 - Loaded All Assemblies, in  0.261 seconds
+<<<<<<< Updated upstream
 =======
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
@@ -135,8 +147,11 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.44f1/
 Registered in 0.002440 seconds.
 - Loaded All Assemblies, in  0.345 seconds
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.230 seconds
 Domain Reload Profiling: 491ms
@@ -146,12 +161,20 @@ Domain Reload Profiling: 491ms
 Domain Reload Profiling: 636ms
 	BeginReloadAssembly (114ms)
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+- Finished resetting the current domain, in  0.230 seconds
+Domain Reload Profiling: 491ms
+	BeginReloadAssembly (84ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 	RebuildCommonClasses (26ms)
 	RebuildNativeTypeToScriptingClass (9ms)
 	initialDomainReloadingComplete (32ms)
@@ -173,6 +196,7 @@ Domain Reload Profiling: 636ms
 			BeforeProcessingInitializeOnLoad (37ms)
 			ProcessInitializeOnLoadAttributes (108ms)
 			ProcessInitializeOnLoadMethodAttributes (35ms)
+<<<<<<< Updated upstream
 =======
 	RebuildCommonClasses (34ms)
 	RebuildNativeTypeToScriptingClass (12ms)
@@ -196,6 +220,8 @@ Domain Reload Profiling: 636ms
 			ProcessInitializeOnLoadAttributes (127ms)
 			ProcessInitializeOnLoadMethodAttributes (50ms)
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+>>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -204,6 +230,7 @@ Domain Reload Profiling: 636ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - Loaded All Assemblies, in  0.459 seconds
 Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
@@ -211,8 +238,13 @@ Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
 - Loaded All Assemblies, in  0.651 seconds
 Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+- Loaded All Assemblies, in  0.459 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.548 seconds
 Domain Reload Profiling: 1007ms
@@ -222,11 +254,19 @@ Domain Reload Profiling: 1007ms
 Domain Reload Profiling: 1389ms
 	BeginReloadAssembly (148ms)
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+- Finished resetting the current domain, in  0.548 seconds
+Domain Reload Profiling: 1007ms
+	BeginReloadAssembly (114ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 		CreateAndSetChildDomain (24ms)
 	RebuildCommonClasses (23ms)
 	RebuildNativeTypeToScriptingClass (8ms)
@@ -260,6 +300,7 @@ Unloading 212 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 5974 unused Assets / (4.1 MB). Loaded Objects now: 6675.
 Memory consumption went from 161.4 MB to 157.3 MB.
 Total: 7.262900 ms (FindLiveObjects: 0.751600 ms CreateObjectMapping: 0.283100 ms MarkObjects: 4.464500 ms  DeleteObjects: 1.762900 ms)
+<<<<<<< Updated upstream
 =======
 		CreateAndSetChildDomain (23ms)
 	RebuildCommonClasses (32ms)
@@ -295,6 +336,8 @@ Unloading 5988 unused Assets / (4.5 MB). Loaded Objects now: 6690.
 Memory consumption went from 164.3 MB to 159.8 MB.
 Total: 6.941900 ms (FindLiveObjects: 0.576500 ms CreateObjectMapping: 0.837100 ms MarkObjects: 3.694900 ms  DeleteObjects: 1.833000 ms)
 >>>>>>> 882aa66ad82a1560f6d35528f64d6e28ef656734
+=======
+>>>>>>> Stashed changes
 
 ========================================================================
 Received Prepare

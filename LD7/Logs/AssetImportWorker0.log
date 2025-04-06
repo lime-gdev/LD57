@@ -15,7 +15,11 @@ D:/GAMES/LD57/LD57/LD7
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< Updated upstream
 49302
+=======
+64723
+>>>>>>> Stashed changes
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,12 +63,21 @@ D:/GAMES/LD57/LD57/LD7
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream
 Player connection [2940]  Target information:
 
 Player connection [2940]  * "[IP] 192.168.1.86 [Port] 0 [Flags] 2 [Guid] 4260845799 [EditorId] 4260845799 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK16SP8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
 Player connection [2940] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [2940] Host joined alternative multi-casting on [225.0.0.222:34997]...
+=======
+Player connection [8200]  Target information:
+
+Player connection [8200]  * "[IP] 192.168.1.86 [Port] 0 [Flags] 2 [Guid] 2329921046 [EditorId] 2329921046 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK16SP8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [8200] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8200] Host joined alternative multi-casting on [225.0.0.222:34997]...
+>>>>>>> Stashed changes
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -76,7 +89,11 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.44f1 (101c91f3a8fb)
 [Subsystems] Discovering subsystems at path D:/Unity/6000.0.44f1/Editor/Data/Resources/UnitySubsystems
@@ -92,11 +109,16 @@ Initialize mono
 Mono path[0] = 'D:/Unity/6000.0.44f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/6000.0.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Unity/6000.0.44f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Unity/6000.0.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 Registered in 0.002638 seconds.
 - Loaded All Assemblies, in  0.258 seconds
 Native extension for WindowsStandalone target not found
@@ -105,11 +127,22 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.239 seconds
 Domain Reload Profiling: 496ms
 	BeginReloadAssembly (85ms)
+=======
+Registered in 0.002301 seconds.
+- Loaded All Assemblies, in  0.253 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.237 seconds
+Domain Reload Profiling: 489ms
+	BeginReloadAssembly (82ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 	RebuildCommonClasses (24ms)
 	RebuildNativeTypeToScriptingClass (9ms)
 	initialDomainReloadingComplete (32ms)
@@ -131,6 +164,29 @@ Domain Reload Profiling: 496ms
 			BeforeProcessingInitializeOnLoad (38ms)
 			ProcessInitializeOnLoadAttributes (110ms)
 			ProcessInitializeOnLoadMethodAttributes (38ms)
+=======
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (105ms)
+		LoadAssemblies (81ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (103ms)
+			TypeCache.Refresh (102ms)
+				TypeCache.ScanAssembly (94ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (237ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (205ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (37ms)
+			ProcessInitializeOnLoadAttributes (107ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+>>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -139,6 +195,7 @@ Domain Reload Profiling: 496ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 - Loaded All Assemblies, in  0.495 seconds
 Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
@@ -147,10 +204,21 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.604 seconds
 Domain Reload Profiling: 1099ms
 	BeginReloadAssembly (111ms)
+=======
+- Loaded All Assemblies, in  0.458 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.559 seconds
+Domain Reload Profiling: 1017ms
+	BeginReloadAssembly (118ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 		CreateAndSetChildDomain (26ms)
 	RebuildCommonClasses (23ms)
 	RebuildNativeTypeToScriptingClass (9ms)
@@ -314,4 +382,95 @@ Received Import Request.
   artifactKey: Guid(4310a286489876f438f5305982dccf18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/LD57/Prefabs/MainScreen/Enemies/Bomba.prefab using Guid(4310a286489876f438f5305982dccf18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4787fd3ab09d09a5e881d01d02c746a3') in 0.3564317 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+=======
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (286ms)
+		LoadAssemblies (201ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (152ms)
+			TypeCache.Refresh (111ms)
+				TypeCache.ScanAssembly (101ms)
+			BuildScriptInfoCaches (33ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (559ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (451ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (317ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 212 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5974 unused Assets / (4.2 MB). Loaded Objects now: 6675.
+Memory consumption went from 161.3 MB to 157.2 MB.
+Total: 8.070600 ms (FindLiveObjects: 0.642600 ms CreateObjectMapping: 0.327000 ms MarkObjects: 4.929100 ms  DeleteObjects: 2.171100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101109.137459 seconds.
+  path: Assets/LD57/Art/2D/Player/Player.psd
+  artifactKey: Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/Player/Player.psd using Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7649c7672afe1cdaf99b1a492d628783') in 0.0479355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.639299 seconds.
+  path: Assets/LD57/Art/2D/Player/Player.psd
+  artifactKey: Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/Player/Player.psd using Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7581ddfeaa6c9e7f640e7840c63dce2c') in 0.0149321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.884441 seconds.
+  path: Assets/LD57/Art/2D/Player/Player.psd
+  artifactKey: Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/Player/Player.psd using Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '867a050b8d16d58a3ddaa84d55e462be') in 0.0126198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.819456 seconds.
+  path: Assets/LD57/Art/2D/Player/Player.psd
+  artifactKey: Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/Player/Player.psd using Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf1510166657c4233e5f5075bae9b16f') in 0.0049819 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.989459 seconds.
+  path: Assets/LD57/Art/2D/LD57 SHABLON.psd
+  artifactKey: Guid(c98dd826b9a927545b040f5dfada350c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/LD57 SHABLON.psd using Guid(c98dd826b9a927545b040f5dfada350c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a6948dc975bf4e4ebb3d5196cafc6e3') in 0.0200052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.187813 seconds.
+  path: Assets/LD57/Art/2D/Player/Player.psd
+  artifactKey: Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/Player/Player.psd using Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a411323e580ad306b7f2de82384ed4e') in 0.1763138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.036319 seconds.
+  path: Assets/LD57/Art/2D/Player/Player.psd
+  artifactKey: Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LD57/Art/2D/Player/Player.psd using Guid(dd0b400a696a5f544af88c7344cabf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09a9f265bd869a7771bc94eb6cf516cb') in 0.0202495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+>>>>>>> Stashed changes
 
