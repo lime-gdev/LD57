@@ -8,6 +8,9 @@ public class ClipsManager : MonoBehaviour
 
     private MainScreenLevelScenario _levelScenario;
     private GameObject _currentClip;
+    private GameObject _newClip;
+
+    private bool _isChangingClips;
 
     public void Initialize(MainScreenLevelScenario levelScenario)
     {
@@ -21,15 +24,29 @@ public class ClipsManager : MonoBehaviour
     }
 
     public void ChangeClip()
-    {
-        GameObject _newClip = Instantiate(_clipPrefab, new Vector3(0, -10, 0), transform.rotation);
+    { 
+        _newClip = Instantiate(_clipPrefab, new Vector3(0, -10, 0), transform.rotation);
+        _isChangingClips = true;
+    }
 
-        while (_newClip.transform.position.y < 0)
+    private void Update()
+    {
+        if (!_isChangingClips) return;
+
+        if (_newClip.transform.position.y < 0)
         {
             _newClip.transform.position += Vector3.up * Time.deltaTime * _changeSpeed;
             _currentClip.transform.position += Vector3.up * Time.deltaTime * _changeSpeed;
         }
+        else
+        {
+            _isChangingClips = false;
+            KeepChanging();
+        }
+    }
 
+    private void KeepChanging()
+    {
         _newClip.transform.position = Vector3.zero;
 
         Destroy(_currentClip.gameObject);
