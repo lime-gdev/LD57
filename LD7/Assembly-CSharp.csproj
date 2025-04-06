@@ -46,8 +46,26 @@
     <Analyzer Include="D:\Unity\6000.0.44f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LD57\Scripts\Model\ClipsManager.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\LevelBootStrap.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\PlayerMovement.cs" />
     <Compile Include="Assets\LD57\Scripts\Controller\AudioManager.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\IExplodable.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\Timer.cs" />
     <Compile Include="Assets\LD57\Scripts\Controller\MainMenuManager.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\ClipChanger.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\BombExplosion.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\CrockodiloBombordinoShooting.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\IHealth.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\LevelScenarioGenerator.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\Floor.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\FrogoWheeli.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\EnemyAbstract.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\EnemySpawner.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\MainScreenLevelScenario.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\ClipScenario.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\ClipBootStrap.cs" />
+    <Compile Include="Assets\LD57\Scripts\Model\Enemy.cs" />
     <Compile Include="Assets\LD57\Scripts\Other\DDOL.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
